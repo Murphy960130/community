@@ -35,4 +35,5 @@ public class MailTest {
         System.out.println(content);
         mailClient.sendMail("njuxmf@163.com", "HTML", content);
     }
+
 }
